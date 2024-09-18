@@ -28,8 +28,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/actionstatusoptions"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/actiontype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/actionstatusoptions"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/actiontype"
 )
 
 // ExecutionResultAction type.

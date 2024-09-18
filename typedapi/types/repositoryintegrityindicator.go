@@ -28,7 +28,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/indicatorhealthstatus"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/indicatorhealthstatus"
 )
 
 // RepositoryIntegrityIndicator type.

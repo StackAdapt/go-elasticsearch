@@ -21,7 +21,7 @@
 package msearch
 
 import (
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types"
 )
 
 // Request holds the request body struct for the package msearch

@@ -28,8 +28,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/trainedmodeltype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/trainedmodeltype"
 )
 
 // Response holds the response body struct for the package puttrainedmodel

@@ -27,7 +27,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/geoshaperelation"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/geoshaperelation"
 )
 
 // ShapeFieldQuery type.

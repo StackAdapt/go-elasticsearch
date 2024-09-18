@@ -28,12 +28,12 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/dynamicmapping"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/icucollationalternate"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/icucollationcasefirst"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/icucollationdecomposition"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/icucollationstrength"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/indexoptions"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/dynamicmapping"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/icucollationalternate"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/icucollationcasefirst"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/icucollationdecomposition"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/icucollationstrength"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/indexoptions"
 )
 
 // IcuCollationProperty type.

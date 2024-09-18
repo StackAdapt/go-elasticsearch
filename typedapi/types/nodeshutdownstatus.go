@@ -28,8 +28,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/shutdownstatus"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/shutdowntype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/shutdownstatus"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/shutdowntype"
 )
 
 // NodeShutdownStatus type.

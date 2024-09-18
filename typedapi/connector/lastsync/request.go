@@ -28,8 +28,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/syncstatus"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/syncstatus"
 )
 
 // Request holds the request body struct for the package lastsync

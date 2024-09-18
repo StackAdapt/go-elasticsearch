@@ -25,9 +25,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/elastic/go-elasticsearch/v8"
-	"github.com/elastic/go-elasticsearch/v8/esapi"
-	"github.com/elastic/go-elasticsearch/v8/esutil"
+	"github.com/StackAdapt/go-elasticsearch/v8"
+	"github.com/StackAdapt/go-elasticsearch/v8/esapi"
+	"github.com/StackAdapt/go-elasticsearch/v8/esutil"
 )
 
 var (

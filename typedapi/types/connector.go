@@ -28,8 +28,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/connectorstatus"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/syncstatus"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/connectorstatus"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/syncstatus"
 )
 
 // Connector type.

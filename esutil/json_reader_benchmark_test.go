@@ -29,7 +29,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/elastic/go-elasticsearch/v8/esutil"
+	"github.com/StackAdapt/go-elasticsearch/v8/esutil"
 )
 
 var _ = fmt.Print

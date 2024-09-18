@@ -28,8 +28,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/licensestatus"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/licensetype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/licensestatus"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/licensetype"
 )
 
 // MinimalLicenseInformation type.

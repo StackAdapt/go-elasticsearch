@@ -28,10 +28,10 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/distanceunit"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/geodistancetype"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/sortmode"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/sortorder"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/distanceunit"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/geodistancetype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/sortmode"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/sortorder"
 )
 
 // GeoDistanceSort type.

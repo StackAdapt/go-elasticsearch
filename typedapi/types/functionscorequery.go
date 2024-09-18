@@ -28,8 +28,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/functionboostmode"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/functionscoremode"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/functionboostmode"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/functionscoremode"
 )
 
 // FunctionScoreQuery type.

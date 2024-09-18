@@ -28,7 +28,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/delimitedpayloadencoding"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/delimitedpayloadencoding"
 )
 
 // DelimitedPayloadTokenFilter type.

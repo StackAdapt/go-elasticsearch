@@ -28,8 +28,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/connectorfieldtype"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/displaytype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/connectorfieldtype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/displaytype"
 )
 
 // ConnectorConfigProperties type.

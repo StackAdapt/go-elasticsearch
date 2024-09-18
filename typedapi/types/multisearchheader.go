@@ -28,8 +28,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/expandwildcard"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/searchtype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/expandwildcard"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/searchtype"
 )
 
 // MultisearchHeader type.

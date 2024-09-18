@@ -28,8 +28,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/optype"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/versiontype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/optype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/versiontype"
 )
 
 // ReindexDestination type.

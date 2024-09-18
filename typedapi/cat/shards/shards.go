@@ -36,8 +36,8 @@ import (
 	"strings"
 
 	"github.com/elastic/elastic-transport-go/v8/elastictransport"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/bytes"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/bytes"
 )
 
 const (

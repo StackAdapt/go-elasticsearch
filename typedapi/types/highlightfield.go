@@ -28,11 +28,11 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/boundaryscanner"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/highlighterfragmenter"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/highlighterorder"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/highlightertagsschema"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/highlightertype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/boundaryscanner"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/highlighterfragmenter"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/highlighterorder"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/highlightertagsschema"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/highlightertype"
 )
 
 // HighlightField type.

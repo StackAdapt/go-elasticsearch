@@ -21,7 +21,7 @@
 package poststarttrial
 
 import (
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/licensetype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/licensetype"
 )
 
 // Response holds the response body struct for the package poststarttrial

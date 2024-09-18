@@ -23,7 +23,7 @@ package types
 import (
 	"encoding/json"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/dfiindependencemeasure"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/dfiindependencemeasure"
 )
 
 // SettingsSimilarityDfi type.

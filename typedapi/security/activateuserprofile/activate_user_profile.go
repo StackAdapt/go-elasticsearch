@@ -34,8 +34,8 @@ import (
 	"strings"
 
 	"github.com/elastic/elastic-transport-go/v8/elastictransport"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/granttype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/granttype"
 )
 
 // ErrBuildPath is returned in case of missing parameters within the build of the request.

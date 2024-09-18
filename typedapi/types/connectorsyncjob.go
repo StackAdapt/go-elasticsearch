@@ -28,9 +28,9 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/syncjobtriggermethod"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/syncjobtype"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/syncstatus"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/syncjobtriggermethod"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/syncjobtype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/syncstatus"
 )
 
 // ConnectorSyncJob type.

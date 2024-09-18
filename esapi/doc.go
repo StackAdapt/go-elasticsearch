@@ -76,8 +76,8 @@ See the documentation for each API function or struct at
 https://pkg.go.dev/github.com/elastic/go-elasticsearch,
 or locally by:
 
-	go doc github.com/elastic/go-elasticsearch/v8/esapi Index
-	go doc github.com/elastic/go-elasticsearch/v8/esapi IndexRequest
+	go doc github.com/StackAdapt/go-elasticsearch/v8/esapi Index
+	go doc github.com/StackAdapt/go-elasticsearch/v8/esapi IndexRequest
 
 Response
 

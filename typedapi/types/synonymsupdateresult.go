@@ -21,7 +21,7 @@
 package types
 
 import (
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/result"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/result"
 )
 
 // SynonymsUpdateResult type.

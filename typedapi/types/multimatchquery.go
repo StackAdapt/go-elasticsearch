@@ -28,9 +28,9 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/operator"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/textquerytype"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/zerotermsquery"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/operator"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/textquerytype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/zerotermsquery"
 )
 
 // MultiMatchQuery type.

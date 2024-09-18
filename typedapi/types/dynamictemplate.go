@@ -27,7 +27,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/matchtype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/matchtype"
 )
 
 // DynamicTemplate type.

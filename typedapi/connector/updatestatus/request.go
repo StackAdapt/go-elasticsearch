@@ -24,7 +24,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/connectorstatus"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/connectorstatus"
 )
 
 // Request holds the request body struct for the package updatestatus

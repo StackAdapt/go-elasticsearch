@@ -28,7 +28,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/converttype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/converttype"
 )
 
 // ConvertProcessor type.

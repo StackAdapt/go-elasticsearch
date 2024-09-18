@@ -28,10 +28,10 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/phoneticencoder"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/phoneticlanguage"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/phoneticnametype"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/phoneticruletype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/phoneticencoder"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/phoneticlanguage"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/phoneticnametype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/phoneticruletype"
 )
 
 // PhoneticTokenFilter type.

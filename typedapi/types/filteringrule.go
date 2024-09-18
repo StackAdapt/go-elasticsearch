@@ -28,8 +28,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/filteringpolicy"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/filteringrulerule"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/filteringpolicy"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/filteringrulerule"
 )
 
 // FilteringRule type.

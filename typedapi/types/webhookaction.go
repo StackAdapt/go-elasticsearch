@@ -28,8 +28,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/connectionscheme"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/httpinputmethod"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/connectionscheme"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/httpinputmethod"
 )
 
 // WebhookAction type.

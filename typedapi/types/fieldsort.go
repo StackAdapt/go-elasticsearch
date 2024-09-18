@@ -28,10 +28,10 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/fieldsortnumerictype"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/fieldtype"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/sortmode"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/sortorder"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/fieldsortnumerictype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/fieldtype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/sortmode"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/sortorder"
 )
 
 // FieldSort type.

@@ -21,8 +21,8 @@
 package health
 
 import (
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/healthstatus"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/healthstatus"
 )
 
 // Response holds the response body struct for the package health

@@ -21,7 +21,7 @@
 package types
 
 import (
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/responsecontenttype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/responsecontenttype"
 )
 
 // HttpInput type.

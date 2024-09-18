@@ -21,7 +21,7 @@
 package types
 
 import (
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/clusterinfotarget"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/clusterinfotarget"
 )
 
 // ClusterInfoTargets type alias.

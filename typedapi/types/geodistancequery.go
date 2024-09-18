@@ -28,8 +28,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/geodistancetype"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/geovalidationmethod"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/geodistancetype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/geovalidationmethod"
 )
 
 // GeoDistanceQuery type.

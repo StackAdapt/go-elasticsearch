@@ -24,11 +24,11 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/elastic/go-elasticsearch/v8/esapi"
+	"github.com/StackAdapt/go-elasticsearch/v8/esapi"
 	"github.com/tidwall/gjson"
 
-	"github.com/elastic/go-elasticsearch/v8/benchmarks"
-	"github.com/elastic/go-elasticsearch/v8/benchmarks/runner"
+	"github.com/StackAdapt/go-elasticsearch/v8/benchmarks"
+	"github.com/StackAdapt/go-elasticsearch/v8/benchmarks/runner"
 )
 
 func init() {

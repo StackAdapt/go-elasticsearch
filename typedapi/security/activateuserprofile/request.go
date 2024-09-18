@@ -24,7 +24,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/granttype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/granttype"
 )
 
 // Request holds the request body struct for the package activateuserprofile

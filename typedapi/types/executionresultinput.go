@@ -23,8 +23,8 @@ package types
 import (
 	"encoding/json"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/actionstatusoptions"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/inputtype"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/actionstatusoptions"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/inputtype"
 )
 
 // ExecutionResultInput type.

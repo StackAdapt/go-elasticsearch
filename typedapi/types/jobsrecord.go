@@ -28,9 +28,9 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/categorizationstatus"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/jobstate"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/memorystatus"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/categorizationstatus"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/jobstate"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/memorystatus"
 )
 
 // JobsRecord type.

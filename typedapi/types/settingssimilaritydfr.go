@@ -23,9 +23,9 @@ package types
 import (
 	"encoding/json"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/dfraftereffect"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/dfrbasicmodel"
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/normalization"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/dfraftereffect"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/dfrbasicmodel"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/normalization"
 )
 
 // SettingsSimilarityDfr type.

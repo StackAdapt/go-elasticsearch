@@ -1,6 +1,7 @@
-module github.com/elastic/go-elasticsearch/v8
+module github.com/StackAdapt/go-elasticsearch/v8
 
 go 1.21
+
 toolchain go1.21.0
 
 require (

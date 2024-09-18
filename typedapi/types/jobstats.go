@@ -28,7 +28,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/elastic/go-elasticsearch/v8/typedapi/types/enums/jobstate"
+	"github.com/StackAdapt/go-elasticsearch/v8/typedapi/types/enums/jobstate"
 )
 
 // JobStats type.
